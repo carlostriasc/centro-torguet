@@ -18,8 +18,16 @@
 
 </nav>
 
-<button class="header-cta">
-Coger cita
+<div class="header-actions">
+
+<a href="tel:+34931234567" class="header-phone">
+  <svg width="18" height="18" viewBox="0 0 24 24">
+    <path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.8-.4 1.2-.2a11.4 11.4 0 0 0 3.6.6c.6 0 1 .4 1 1V21c0 .6-.4 1-1 1C10.3 22 2 13.7 2 3c0-.6.4-1 1-1h3.4c.6 0 1 .4 1 1a11.4 11.4 0 0 0 .6 3.6c.1.4.1.9-.2 1.2l-1.2 1.2z"/>
+  </svg>
+</a>
+
+<button class="cta-header">
+  Coger cita
 </button>
 
 </div>
